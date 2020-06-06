@@ -36,7 +36,7 @@ Also we know "How people access the web & How websites are created"
    elements need to be told which elements are
    block-level elements.
  <br/> <br/>
-5. HTML Chapter 18: “Process & Design” (pp.452-475)
+5. HTML Chapter 18: “Process & Design”
   * It's important to understand who your target audience
     is, why they would come to your site, what information
     they want to find and when they are likely to return.
@@ -52,13 +52,13 @@ Also we know "How people access the web & How websites are created"
    <br/>
    <br/>
 
- ## From the Duckett JS book :
-    * java scripts makes web pages more interactive.
-    * A SCRIPT IS A SERI ES OF INSTRUCTIONS.
-    * To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
-    * web browsers use HTML murkup to create a model of the web page .Each element creates its own node which is a kind of object.
-    * we can write code and decide when it's runing. 
-    * It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and
+## From the Duckett JS book :
+  * java scripts makes web pages more interactive.
+  * A SCRIPT IS A SERI ES OF INSTRUCTIONS.
+  * To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+  * web browsers use HTML murkup to create a model of the web page .Each element creates its own node which is a kind of object.
+  * we can write code and decide when it's runing. 
+  * It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and
       CSS style sheets), but they have the . j s extension.
-    * The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file).
-    * If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created. 
+  * The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file).
+  * If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created. 
