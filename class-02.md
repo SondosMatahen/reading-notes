@@ -39,6 +39,8 @@ meaning of acronyms, and so on.
   ![img](https://image.slidesharecdn.com/understandingthewebpagelayout-170404052518/95/understanding-the-web-page-layout-10-638.jpg?cb=1491283572)
   <br/><br/>
   <br/>
+
+  
 2. Ch 10 : Introducing CSS
 <br/>
   * CSS works by associating rules with HTML elements. These rules govern
