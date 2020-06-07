@@ -1,11 +1,12 @@
 # Read 02 in 201
 <br/>
 ## From the Duckett HTML book:
+
 1. Ch 2 : Text
 <br/>
-When creating a web page, we add tags
-(known as markup) to the contents of the
-page. These tags provide extra meaning :
+   When creating a web page, we add tags
+   (known as markup) to the contents of the
+   page. These tags provide extra meaning :
 
  * Structural markup:the elements that you can use to describe both headings and paragraphs. 
    1. Headings : HTML has six "levels" of headings (from 1 to6).
@@ -40,7 +41,7 @@ meaning of acronyms, and so on.
   <br/><br/>
   <br/>
 
-  
+
 2. Ch 10 : Introducing CSS
 <br/>
   * CSS works by associating rules with HTML elements. These rules govern
