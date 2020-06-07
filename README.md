@@ -6,7 +6,7 @@ In this website, you can find all my 201 reading notes.
 Read#  | Link
 ----------|-------
 Read 1    | [linke 1](https://sondosmatahen.github.io/reading-notes/class-01)
-Read 2    | [linke 2]()
+Read 2    | [linke 2](https://sondosmatahen.github.io/reading-notes/class-02)
 Read 3    | [linke 3]()
 Read 4    | [linke 4]()
 Read 5    | [linke 5]()
