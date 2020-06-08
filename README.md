@@ -7,7 +7,7 @@ Read#  | Link
 ----------|-------
 Read 1    | [linke 1](https://sondosmatahen.github.io/reading-notes/class-01)
 Read 2    | [linke 2](https://sondosmatahen.github.io/reading-notes/class-02)
-Read 3    | [linke 3]()
+Read 3    | [linke 3](https://sondosmatahen.github.io/reading-notes/class-03s)
 Read 4    | [linke 4]()
 Read 5    | [linke 5]()
 Read 6    | [linke 6]()
