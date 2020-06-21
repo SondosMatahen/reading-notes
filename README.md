@@ -15,11 +15,11 @@ Read 7    | [linke 7](https://sondosmatahen.github.io/reading-notes/class-07)
 Read 8    | [linke 8](https://sondosmatahen.github.io/reading-notes/class-08)
 Read 9    | [linke 9](https://sondosmatahen.github.io/reading-notes/class-09)
 Read 10   | [linke 10](https://sondosmatahen.github.io/reading-notes/class-10)
-Read 11   | [linke 11](https://sondosmatahen.github.io/reading-notes/class-1)
-Read 12   | [linke 12]()
-Read 13   | [linke 13]()
-Read 14   | [linke 14]()
-Read 15   | [linke 15]()
+Read 11   | [linke 11](https://sondosmatahen.github.io/reading-notes/class-11)
+Read 12   | [linke 12](https://sondosmatahen.github.io/reading-notes/class-12)
+Read 13   | [linke 13](https://sondosmatahen.github.io/reading-notes/class-13)
+Read 14   | [linke 14](https://sondosmatahen.github.io/reading-notes/class-14)
+Read 15   | [linke 15](https://sondosmatahen.github.io/reading-notes/class-15)
 
 
 
