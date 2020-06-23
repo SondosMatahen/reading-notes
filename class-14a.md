@@ -1,17 +1,12 @@
 # Read 14a in 201
 <br/><br/>
 
-## What Google Learned From Its Quest to Build the Perfect Team
- 
- * Our data-saturated age enables us to examine our work habits and office quirks with a scrutiny that our cubicle-bound forebears could only dream of.
- * project Aristotle’s researchers began by reviewing a half-century of academic studies looking at how teams worked.
- * Project Aristotle’s researchers began searching through the data they had collected, looking for norms. They looked for instances when team members described a particular behavior as an ‘‘unwritten rule’’ or when they explained certain things as part of the ‘‘team’s culture.’
- <br/><br/>
-
- ![img](https://static01.nyt.com/images/2016/02/28/magazine/28mag-teams2/28mag-teams2-superJumbo.jpg?quality=90&auto=webp)
- <br/><br/>
-
- *  the good teams all had high ‘‘average social sensitivity’’ — a fancy way of saying they were skilled at intuiting how others felt based on their tone of voice, their expressions and other nonverbal cues
- * We had to get people to establish psychologically safe environments,’’ Rozovsky told me. But it wasn’t clear how to do that. ‘‘People here are really busy,’’ she said. ‘‘We needed clear guidelines.
- * There was one senior engineer who would just talk and talk, and everyone was scared to disagree with him,’’ Sakaguchi said
- * 
+ ## Transitions & Animations
+  * With CSS3 transitions you have the potential to alter the appearance and behavior of an element whenever a state change occurs, such as when it is hovered over, focused on, active, or targeted.
+  * As mentioned, for a transition to take place, an element must have a change in state, and different styles must be identified for each state. The easiest way for determining styles for different states is by using the :hover, :focus, :active, and :target pseudo-classes.
+  * The animation-fill-mode property identifies how an element should be styled either before, after, or before and after an animation is run. The animation-fill-mode property accepts four keyword values, including none, forwards, backwards, and both.
+  * The backwards value will apply the styles within the first specified keyframe as soon as being identified, before the animation has been run. This does include applying those styles during any time that may be set within an animation delay. The backwards value may also be affected by the animation-direction property value.
+  * Fade in effects are coded in two steps: first, you set the initial state; next, you set the change, for example on hover
+  * To grow an element, you used to have to use its width and height, or its padding. But now we can use CSS3’s transform to enlarge.
+  * A really popular effect at the moment is transitioning a square element into a round one
+  * ghost button; a button with no background and a heavy border. 
